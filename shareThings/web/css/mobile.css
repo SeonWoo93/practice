@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+
+#menubarArea, #submenuArea {
+	font-size:70%;
+}
+#menubar td, #submenu td {
+	height: 40px;
+}
+#menubar td:first-of-type, #submenu td:first-of-type {
+	width:100px;
+}
+#submenu a {
+	font-size:70%;
+}
+.category {
+	line-height:40px;
+}
